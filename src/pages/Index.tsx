@@ -99,9 +99,7 @@ const Index = () => {
               <nav className="hidden md:flex space-x-6">
                 <a href="#" className="text-gray-700 hover:text-black transition-colors">Главная</a>
                 <a href="#catalog" className="text-gray-700 hover:text-black transition-colors">Каталог</a>
-                <a href="#men" className="text-gray-700 hover:text-black transition-colors">Мужская одежда</a>
-                <a href="#women" className="text-gray-700 hover:text-black transition-colors">Женская одежда</a>
-                <a href="#delivery" className="text-gray-700 hover:text-black transition-colors">Доставка</a>
+                <a href="#delivery" className="text-gray-700 hover:text-black transition-colors">Доставка и оплата</a>
                 <a href="#contacts" className="text-gray-700 hover:text-black transition-colors">Контакты</a>
               </nav>
             </div>
